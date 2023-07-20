@@ -1,10 +1,14 @@
 numpy
 Flask
 gunicorn
-sklearn
+scikit-learn
 pandas
 PyYAML
 evidently
 dill
 matplotlib
+markupsafe
+datetime
+ipykernel
+
 -e .
